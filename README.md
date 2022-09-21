@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmkarBochare
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Python and Kotlin
 - 💞️ I’m looking to collaborate on problem solving
 - 📫 How to reach me ...
 
